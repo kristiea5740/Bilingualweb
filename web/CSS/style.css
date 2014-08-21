@@ -1,0 +1,53 @@
+h1,h2
+{
+	font-family:arial; 
+	color:#e52b50;
+}
+
+
+.center
+{
+	text-align: center;
+
+}
+
+#title
+{
+	font-size:30pt;
+	color:#ff033E;
+	background:#cd9575; 
+}
+
+#concerns
+{
+	font-style: Times;
+	color:blue;
+}
+
+#opening
+{
+	font-style: Arial;
+	color:black;
+	font-weight:bold;
+}
+
+#speechbubbles
+{
+	display:block;
+	width:25%;
+	margin:0 auto;
+}
+
+#myth
+{
+	float:left;
+	width:&;
+	margin:0 auto;
+
+}
+
+#benefit
+{
+	float:right;
+	margin:0 auto;
+}
