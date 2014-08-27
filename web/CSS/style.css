@@ -6,13 +6,14 @@ h1,h2
 	background-color:#ee3e80;
 }
 
-h3, #ending
+h3
 {
 	background-color:#007ba7;
 	margin-left:0 auto;
 	text-align:left;
 	color:#99E6B3;
 	font-size:20pt;
+
 }
 
 body
@@ -61,6 +62,16 @@ nav li
 	font-size:14pt;
 }
 
+#ending
+{
+	background-color:#007ba7;
+	margin-left:0 auto;
+	text-align:left;
+	color:#99E6B3;
+	font-size:20pt;
+	clear:both;
+}
+
 #mainhead
 {
 background-color:#e3dac9;
@@ -82,7 +93,7 @@ background-color:#e3dac9;
 }
 
 
-#myth, #globe, #benefit, #health
+#myth
 {
 	float:left;
 	width:&;
@@ -90,3 +101,26 @@ background-color:#e3dac9;
 	padding:1em;
 }
 
+#globe
+{
+	float:left;
+	width:&;
+	margin:0 auto;
+	padding:1em;
+}
+
+#benefit
+{
+	float:left;
+	margin:0 auto;
+	padding:1em;
+
+}
+
+#health
+{
+	float:right;
+	width:&;
+	margin:0 auto;
+	padding:1em;
+}
