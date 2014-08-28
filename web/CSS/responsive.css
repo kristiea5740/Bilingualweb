@@ -1,0 +1,66 @@
+div.one-third
+{
+	width:47.5%;
+}
+
+div.one-third-second
+{
+	margin:0;
+}
+
+div.one-third-third 
+{
+	margin:0;
+}
+
+div.one-third-fourth
+{
+	margin:0;
+}
+
+div.one-third-last
+{
+	clear: both;
+	float:none;
+	width:auto;
+	padding: 20px;
+}
+#youtubevideo
+{
+	display: none;
+}
+
+img
+{
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}
+
+@media screen and (max-width: 500px) {
+
+	div.one-third, .one-third-second , .one-third-third, .one-third-fourth , .one-third-last
+	{
+		width:100%;
+		float:none;
+		margin-right: 0;
+	}
+	
+}
+
+#answeringmyths, #quotes, #globe, #benefit, #health
+{
+	display: none;
+}
+
+iframe
+{
+	display:none;
+}
+
+ul li
+{
+	float:none;
+	padding:0%;
+	width:0 auto;
+}
